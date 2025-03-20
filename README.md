@@ -3,4 +3,4 @@
 - 🖥️ I've been coding in Solidity, Javascript, Python, and Go. 
 - 🌱 I’m currently pursuing a Masters degree in Computer Science.
 - 🔭 I’m currently working on decentralized federated learning using blockchain.
-- 🐦 You can follow me on Twitter [@khush0_7](https://twitter.com/khush0_7)
+- 🐦 You can follow me on Twitter [@syed0_7](https://twitter.com/syed0_7)
